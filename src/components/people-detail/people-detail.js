@@ -6,6 +6,7 @@ export default class PeopleDetail extends Component{
 
 
     render(){
+        console.log()
         return(
             <div className='people-detail jumbotron rounded'>
                 <img 

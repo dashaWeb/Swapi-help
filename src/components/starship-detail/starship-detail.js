@@ -10,7 +10,7 @@ export default class StarshipDetail extends Component{
             <div className='starship-detail jumbotron rounded'>
                 <img 
                     src="https://starwars-visualguide.com/assets/img/starships/5.jpg" 
-                    className='starship-image'
+                    className='starship-image' alt =""
                 />
                 <div>
                     <h4>Sentinel-class landing craft</h4>
